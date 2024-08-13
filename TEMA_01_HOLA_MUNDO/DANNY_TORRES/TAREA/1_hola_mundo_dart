@@ -5,12 +5,12 @@
 
 // Analisis del codigo
 *main() {
-  print ("Hello Word");
+  println ("Hello Word")
   }
 
 
-// el asterisco. No tiene punto y coma 
-
+// El asterisco. No tiene punto y coma 
+//El comando println no existe en dart 
  void main(){
   print ("Hello Word");
   }
