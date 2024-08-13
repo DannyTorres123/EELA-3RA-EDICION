@@ -1,3 +1,4 @@
+/*
 ## 1. Teoría
 
 Mira el siguiente código, analizalo y comentame que errores puede tener y como lo solventarías.
@@ -43,6 +44,7 @@ void main() {;
     // var
     var balance = "20.20";
 }
+*/
 
 
 
